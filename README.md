@@ -1,8 +1,6 @@
-<div align="center">
-# Anti_TBML 
-서류기반 자금세탁 방지 프로젝트
-___
-</div>
+# ANTI-TBML
+무역서류기반 자금세탁 방지 프로젝트
+
 ![슬라이드2](https://user-images.githubusercontent.com/83098550/143228533-6c930707-807d-4131-95e2-753b24bf7bac.JPG)
 
 무역 서류 내의 글자를 인식, 탐지하여 제재 목록과 비교하여 자금세탁 위험 여부 파악
